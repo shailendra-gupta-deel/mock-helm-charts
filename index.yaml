@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  sample:
+  - name: sample
+    version: 1.0.0
+    description: A Helm chart for Kubernetes
+    apiVersion: v2
+    type: application
+    urls:
+      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+generated: "2026-02-13T22:52:06.667324+05:30"
