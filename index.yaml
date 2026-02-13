@@ -7,7 +7,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   nats:
   - name: nats
     version: 1.0.0
@@ -15,7 +15,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   minio:
   - name: minio
     version: 1.0.0
@@ -23,7 +23,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   pgweb:
   - name: pgweb
     version: 1.0.0
@@ -31,7 +31,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   nats-jetstream-config:
   - name: nats-jetstream-config
     version: 1.0.0
@@ -39,7 +39,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
 
   postgres-advance:
   - name: postgres-advance
@@ -48,7 +48,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-ai-studio:
   - name: postgres-ai-studio
     version: 1.0.0
@@ -56,7 +56,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-anon-report:
   - name: postgres-anon-report
     version: 1.0.0
@@ -64,7 +64,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-background-checks:
   - name: postgres-background-checks
     version: 1.0.0
@@ -72,7 +72,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-cards:
   - name: postgres-cards
     version: 1.0.0
@@ -80,7 +80,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-compensation-management:
   - name: postgres-compensation-management
     version: 1.0.0
@@ -88,7 +88,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-deel-ai:
   - name: postgres-deel-ai
     version: 1.0.0
@@ -96,7 +96,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-deel-it:
   - name: postgres-deel-it
     version: 1.0.0
@@ -104,7 +104,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-deel-l2-replica:
   - name: postgres-deel-l2-replica
     version: 1.0.0
@@ -112,7 +112,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-deel:
   - name: postgres-deel
     version: 1.0.0
@@ -120,7 +120,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-dev-toolkit:
   - name: postgres-dev-toolkit
     version: 1.0.0
@@ -128,7 +128,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-engage:
   - name: postgres-engage
     version: 1.0.0
@@ -136,7 +136,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-feature-flag:
   - name: postgres-feature-flag
     version: 1.0.0
@@ -144,7 +144,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-file:
   - name: postgres-file
     version: 1.0.0
@@ -152,7 +152,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-general-ledger:
   - name: postgres-general-ledger
     version: 1.0.0
@@ -160,7 +160,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-langflow:
   - name: postgres-langflow
     version: 1.0.0
@@ -168,7 +168,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-mail:
   - name: postgres-mail
     version: 1.0.0
@@ -176,7 +176,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-netsuite:
   - name: postgres-netsuite
     version: 1.0.0
@@ -184,7 +184,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-payments-orchestrator:
   - name: postgres-payments-orchestrator
     version: 1.0.0
@@ -192,7 +192,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-payroll-ai:
   - name: postgres-payroll-ai
     version: 1.0.0
@@ -200,7 +200,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-payroll-fintech:
   - name: postgres-payroll-fintech
     version: 1.0.0
@@ -208,7 +208,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-payslips:
   - name: postgres-payslips
     version: 1.0.0
@@ -216,7 +216,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-sorted:
   - name: postgres-sorted
     version: 1.0.0
@@ -224,7 +224,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-spicedb:
   - name: postgres-spicedb
     version: 1.0.0
@@ -232,7 +232,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-time-and-attendance:
   - name: postgres-time-and-attendance
     version: 1.0.0
@@ -240,7 +240,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-travel:
   - name: postgres-travel
     version: 1.0.0
@@ -248,7 +248,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   postgres-wikijs:
   - name: postgres-wikijs
     version: 1.0.0
@@ -256,7 +256,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
 
   mail:
   - name: mail
@@ -265,7 +265,7 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
   zip:
   - name: zip
     version: 1.0.0
@@ -273,5 +273,5 @@ entries:
     apiVersion: v2
     type: application
     urls:
-      - https://github.com/shailendra-gupta-deel/sample-helm-chart/archive/refs/heads/main.tar.gz
+      - https://github.com/shailendra-gupta-deel/mock-helm-charts/archive/refs/heads/main.tar.gz
 generated: "2026-02-13T22:52:06.667324+05:30"
